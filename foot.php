@@ -22,7 +22,7 @@
             <div  style="float:left; width:25%; position:relative; text-align:left;">
 
 		            		    <ul style="margin:0; padding:0;" class="copyright">
-                            <li><a href="http://educaysoft.org/educaysoft/index.php">EDUCAYSOFT</a></li>
+                            <li><a href=<document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";    Incio</a></li>
                             <li>&copy; Francis Quinde Stalin Adalberto--</li>
                             <li>Design: <a href="//html5up.net">HTML5 UP</a></li>
                         </ul>
