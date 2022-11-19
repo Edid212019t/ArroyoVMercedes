@@ -86,7 +86,7 @@ document.getElementById("Mercedes Arroyo ").innerHTML="Mercedds Arroyo";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-http://highkickesmeraldas.com/leoNazareno.php'>Leonardo Nazareno</a></p><p><a href='eys-http://highkickesmeraldas.com/ValverdeMariaJose/.php'>Maria Valverde</a></p> ";
+ document.getElement("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href=''>Leonardo Nazareno</a></p><p><a href='eys-http:.php'>Maria Valverde</a></p> ";
  </script>
  
 <?php
