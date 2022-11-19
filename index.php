@@ -50,7 +50,8 @@ include("marco-right.php");
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Soy estrovertid o me gusta jugar futbol, los fines de semana salgo hacer ejercicios a la playa veo TV y escucho musica.</p>
+                   <p   class="eys-parrafo">Soy estrovertida me gusta jugar futbol, los fines de semana salgo hacer ejercicios a la playa veo TV y escucho musica.</p>
+
        
 
                    
@@ -80,7 +81,7 @@ include("marco-left.php")
  
 <script >  
 
-	document.title="Stalin";                                                   document.getElementById("foto").src="./images/suma.png";                  document.getElementById("elnombre").innerHTML="Stalin Francis";
+	document.title="Mercedes";                                                   document.getElementById("foto").src="./images/suma.png";                  document.getElementById("elnombre").innerHTML="Mercedes Arroyo";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blo
 g-seccion4'>Hooby</a></p>";
