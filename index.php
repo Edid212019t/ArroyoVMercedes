@@ -83,12 +83,10 @@ include("marco-left.php")
 
 	document.title="Mercedes";                                                   document.getElementById("foto").src="./images/suma.png";                  document.getElementById("elnombre").innerHTML="Mercedes Arroyo";
 
- document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blo
-g-seccion4'>Hooby</a></p>";
-
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eyshttp://highkickesmeraldas.com/ValverdeMariaJose/ '>http://ValverdeMariaJose </a></p><p><a hre
-f='eys-damaris.php'>Damaris Viallalva</a></p> ";
- </script>
+document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><h
+r> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p>
+<p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";                                                                                                                              document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a https://highkickesmeraldas.com/GamezRobert/' https://highkickesmeraldas.com/ValdezGerardo/' http://highkickesmeraldas.com/RiveraFabricio/' https://highkickesmeraldas.com/CORALalexander/'
+iphp'>Mercedes Arroyo</a></p><p><://highkickesmeraldas.com/ValverdeMariaJose/'>Valverde Maria</a></p> ";                                                  </script>
 
  
 <?php
