@@ -85,8 +85,7 @@ include("marco-left.php")
 
 document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><h
 r> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p>
-<p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";                                                                                                                              document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a https://highkickesmeraldas.com/GamezRobert/' https://highkickesmeraldas.com/ValdezGerardo/' http://highkickesmeraldas.com/RiveraFabricio/' https://highkickesmeraldas.com/CORALalexander/'
-iphp'>Mercedes Arroyo</a></p><p><://highkickesmeraldas.com/ValverdeMariaJose/'>Valverde Maria</a></p> ";                                                  </script>
+<p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";                                                                                                                 document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='http://highkickesmeraldas.com/RiveraFabricio/'>Fabricio Rivera</a></p><p><a href='http://highkickesmeraldas.com/leoNazareno/'>Leonardo Nazareno</a></p> href='https://highkickesmeraldas.com/CORALalexander/'>Alexander Coral</a></p> <p> <a href='https://highkickesmeraldas.com/ValdezGerardo/'>Gerardo Valdez</a></p> ";                                                  </script>
 
  
 <?php
