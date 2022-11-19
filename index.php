@@ -86,8 +86,7 @@ include("marco-left.php")
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blo
 g-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacio
-nados:</b></p><hr> <p><a href='eys-kevin.php'>Kevin Aguilar</a></p><p><a hre
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eyshttp://highkickesmeraldas.com/ValverdeMariaJose/ '>http://ValverdeMariaJose </a></p><p><a hre
 f='eys-damaris.php'>Damaris Viallalva</a></p> ";
  </script>
 
