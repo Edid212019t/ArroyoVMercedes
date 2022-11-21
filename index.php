@@ -12,7 +12,7 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Mercedes Arroyo??</h1>
+        	<h1>¿Quién es Mercedes Arroyo??</h1>u
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
@@ -79,8 +79,8 @@ include("marco-right.php");
 include("marco-left.php")
 ?>	 
 <script >  					 
-document.title="Mercedes";                            document.getElementById("foto").src="./images/suma.png"; 		                                        
-document.getElementById("elnombre").innerHTML="Mercedes Arroyo";					                                                          document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>conocimiento informatico</a></p><p><a href='#blog-seccion4'>Hooby</a></p>"; 				                                      
+document.title="Mercedes";                            document.getElementById("foto").src="./images/stalin.png"; 		                                        
+document.getElementById("elnombre").innerHTML="Mercedes Arroyo";					                                                          document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>conocimiento informatico</a></p><p><a href='#blog-seccion4'>Hooby</a></p>"; 				                                   
 document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='http://highkickesmeraldas.com/RiveraFabricio/'>Fabricio Rivera</a></p><p><a href='http://highkickesmeraldas.com/leoNazareno/'>Leonardo Nazareno</a></p><a href='https://highkickesmeraldas.com/CORALalexander/'>Alexander Coral</a></p><p><a href='https://highkickesmeraldas.com/ValdezGerardo/'>Gerardo Valdez</a></p> ";           
 </script>	 
 
