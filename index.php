@@ -79,8 +79,10 @@ include("marco-right.php");
 include("marco-left.php")
 ?>
  
-<script >  								document.title="Mercedes";                             document.getElementById("foto").src="./images/suma.png"; 		                 document.getElementById("elnombre").innerHTML="Mercedes Arroyo";
+<script >  						document.title="Mercedes";                         	document.getElementById("foto").src="./images/suma.png"; 		                 		document.getElementById("elnombre").innerHTML="Mercedes Arroyo";					
 
-document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p<a href='#blog-seccion3'>conocimientoinformatico</a></p><p><a href='#blog-seccion4'>Hooby</a></p>"; 			document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='http://highkickesmeraldas.com/RiveraFabricio/'>Fabricio Rivera</a></p><p><a href='http://highkickesmeraldas.com/leoNazareno/'>Leonardo Nazareno</a></p> href='https://highkickesmeraldas.com/CORALalexander/'>Alexander Coral</a></p> <p> <a href='https://highkickesmeraldas.com/ValdezGerardo/'>Gerardo Valdez</a></p> ";                                                  </script	>	 
-<?php
+document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>conocimiento informatico</a></p><p><a href='#blog-seccion4'>Hooby</a></p>"; 				                                            document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='http://highkickesmeraldas.com/RiveraFabricio/'>Fabricio Rivera</a></p><p><a href='http://highkickesmeraldas.com/leoNazareno/'>Leonardo Nazareno</a></p> href='https://highkickesmeraldas.com/CORALalexander/'>Alexander Coral</a></p><p><a href='https://highkickesmeraldas.com/ValdezGerardo/'>Gerardo Valdez</a></p> ";           
+</script>	 
+
+<?php	
 include("foot.php")?>
